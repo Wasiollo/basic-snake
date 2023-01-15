@@ -8,3 +8,5 @@ class Snake{
         this.tail = x + size;
     }
 }
+
+var snake = new Snake();
