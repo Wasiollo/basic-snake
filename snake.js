@@ -1,4 +1,10 @@
 
+class Apple{
+    constructor(x, y){
+        this.x = x;
+        this.y = y;
+    }
+}
 
 class Snake{
     constructor(x, y, size){
